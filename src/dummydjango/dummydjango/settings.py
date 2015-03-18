@@ -85,5 +85,3 @@ STATIC_URL = '/static/'
 
 # Custom templates
 TEMPLATE_DIRS = [os.path.join(BASE_DIR, 'templates')]
-
-print(TEMPLATE_DIRS)
