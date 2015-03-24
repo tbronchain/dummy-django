@@ -50,6 +50,8 @@
 - [DB related](https://docs.djangoproject.com/en/1.7/topics/db/)
 - [Time Zones](https://docs.djangoproject.com/en/1.7/topics/i18n/timezones/)
 - [Generic views](https://docs.djangoproject.com/en/1.7/topics/class-based-views/)
+- [Templates Topic](https://docs.djangoproject.com/en/dev/topics/templates/)
+- [Templates Builtins](https://docs.djangoproject.com/en/dev/ref/templates/builtins/)
 - [UT in Django](https://docs.djangoproject.com/en/1.7/topics/testing/)
 - [Regex](https://docs.python.org/3/library/re.html#module-re)
 - [Static files](https://docs.djangoproject.com/en/1.7/howto/static-files/)
