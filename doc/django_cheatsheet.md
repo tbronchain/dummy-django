@@ -59,3 +59,4 @@
 - [Static files ref](https://docs.djangoproject.com/en/1.8/ref/contrib/staticfiles/)
 - [WSGI deploy (prod)](https://docs.djangoproject.com/en/1.8/howto/deployment/wsgi/)
 - [Reusable apps](https://docs.djangoproject.com/en/1.8/intro/reusable-apps/)
+- [Sessions](http://www.djangobook.com/en/2.0/chapter14.html)
